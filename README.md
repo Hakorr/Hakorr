@@ -1,4 +1,4 @@
-![](banner.png)
+![Banner](banner.png)
 
 <p align="center">
 Want to support me?
