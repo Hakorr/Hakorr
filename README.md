@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
 <p align="center">
-Want to support me?
+Want to support me? <i>(I take commissions too)</i>
 </p>
 
 <p align="center">
