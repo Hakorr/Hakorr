@@ -5,6 +5,10 @@ Tervetuloa! It's a great honor to have you here!
 <i>Okay to be frank I don't really know who you are, but you're cool right? Uhh... Go ahead, check my projects, maybe donate, or just surf by, it's kind of up to you. No, like actually it's up to you I can't control you, it's not like I've invented mind control or anything. Can you please stop reading this it's getting a bit awkward.</i>
 </p>
 
+<p align="center"><sub>
+Oh! And my Discord username is "Hakorr" in case you want to contact me.
+</sub></p>
+
 ---
 
 <p align="center">
