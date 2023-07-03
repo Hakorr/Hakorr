@@ -1,4 +1,4 @@
-<h3 align="center">Welcome! Tervetuloa! Willkommen! Chào mừng! 欢迎!</h3>
+<h3 align="center">Welcome! Tervetuloa! Bienvenue! Willkommen! Chào mừng! स्वागत! 欢迎!</h3>
 
 <p align="center">
 Want to support me? <i>(I take commissions too)</i>
