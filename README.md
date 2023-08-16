@@ -1,7 +1,7 @@
 <h3 align="center">Welcome! Tervetuloa! Bienvenue! Willkommen! Chào mừng! स्वागत! 欢迎!</h3>
 
 <p align="center">
-Join my <a href="https://discord.gg/xkYydUyaem" target="_blank">Discord Server</a> for free assistance and friendly discussion about userscripts!
+Join my <a href="https://discord.gg/95vJnnPkCs" target="_blank">Discord Server</a> for free assistance and friendly discussion about userscripts!
 </p>
 
 <p align="center">
