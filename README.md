@@ -5,5 +5,5 @@ Join my <a href="https://hakorr.github.io/Userscripts/community/invite" target="
 </p>
 
 <p align="center">
-Want to support me? Visit my <a href="https://www.patreon.com/Hakas" target="_blank">Patreon</a>! <i>(I take commissions too)</i>
+Want to support me? Visit my <a href="https://ko-fi.com/hakas" target="_blank">Ko-Fi</a>! <i>(I take commissions too)</i>
 </p>
