@@ -5,5 +5,5 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=L3wKzyIN1yk">Focusing on personal life</a> (studies, work, etc.) at the moment!</p>
 
-<p align="center">You can reach out via <a href="https://discord.com/users/849388304860446801">Discord</a> if <b>necessary</b>.</p>
+<p align="center">You can reach out via <a href="https://discord.com/users/849388304860446801">Discord</a> (@Hakorr) if <b>necessary</b>.</p>
 <p align="center"><a href="https://liberapay.com/Haka/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg" width="120"></a></p>
